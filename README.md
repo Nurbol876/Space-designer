@@ -65,19 +65,6 @@ JSON (data)
 
 PNG (visual design snapshot)
 
-## 📂 Project Structure (suggested)
-/
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-│   ├── images/
-│   └── icons/
-├── modules/       
-├── data/           
-├── docs/
-└── README.md
-
 ## 🤝 Contributing
 
 Contributions are welcome! Possible improvements:
