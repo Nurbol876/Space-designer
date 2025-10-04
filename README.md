@@ -1,4 +1,4 @@
-#🚀 Space Habitat Designer
+# 🚀 Space Habitat Designer
 
 An interactive web app for designing autonomous space habitats for extraterrestrial environments (Mars, Moon, ISS, transit modules).
 
