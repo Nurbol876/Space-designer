@@ -73,8 +73,8 @@ PNG (visual design snapshot)
 ├── assets/
 │   ├── images/
 │   └── icons/
-├── modules/        # optional modular code
-├── data/           # configuration / presets
+├── modules/       
+├── data/           
 ├── docs/
 └── README.md
 
