@@ -2,12 +2,12 @@
 
 An interactive web app for designing autonomous space habitats for extraterrestrial environments (Mars, Moon, ISS, transit modules).
 
-##📄 Project Overview
+## 📄 Project Overview
 
 Space Habitat Designer is a browser-based tool that allows users to model and visualize living and working modules for space missions.
 You can set habitat parameters, create and arrange functional zones, track life-support analytics, and export your design as JSON or PNG.
 
-##✨ Features
+## ✨ Features
 
 Environment selection: Mars, Moon, ISS, or Transit Module — each with unique constraints (gravity, atmosphere, etc.)
 
@@ -21,7 +21,7 @@ Export tools: Save the design as JSON (data) or PNG (visual snapshot)
 
 This project combines visualization with engineering logic to help users understand the real limitations of space habitat architecture.
 
-##🧩 Tech Stack
+## 🧩 Tech Stack
 
 Frontend: HTML, CSS, JavaScript
 
@@ -33,7 +33,7 @@ Export: JSON serialization and PNG export for designs
 
 Inspiration sources: NASA habitat design guides, scientific articles, and engineering reports
 
-##📚 References
+## 📚 References
 
 The project is inspired by real-world research, including:
 
@@ -45,9 +45,9 @@ Concepts for Mars/Moon missions and ISS modules
 
 Scientific articles on minimum space requirements per astronaut
 
-###Start designing habitats 🚀
+### Start designing habitats 🚀
 
-##🚀 Usage Guide
+## 🚀 Usage Guide
 
 Open the app and click Start Design
 
@@ -65,7 +65,7 @@ JSON (data)
 
 PNG (visual design snapshot)
 
-##📂 Project Structure (suggested)
+## 📂 Project Structure (suggested)
 /
 ├── index.html
 ├── style.css
@@ -78,7 +78,7 @@ PNG (visual design snapshot)
 ├── docs/
 └── README.md
 
-##🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Possible improvements:
 
@@ -94,7 +94,7 @@ UI/UX polish and mobile support
 
 Feel free to open an issue or submit a pull request.
 
-##📫 Contact
+## 📫 Contact
 
 Email: akaymambetzhanov@gmail.com
 
